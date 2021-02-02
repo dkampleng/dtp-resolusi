@@ -1,0 +1,4 @@
+What's up!
+Resolusi Saya:
+- Membuat website dengan ReactJS
+- Bekerja di Start-up
