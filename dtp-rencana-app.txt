@@ -1,0 +1,6 @@
+RENCANA APP DTP
+- Javascript
+  - ReactJS
+  - ElectronJS
+- Python
+- Java
