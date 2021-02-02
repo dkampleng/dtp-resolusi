@@ -2,6 +2,7 @@ RENCANA APP DTP
 - Javascript
   - ReactJS
   - ElectronJS
+  - Angular
 - Python
   - Framework Python
 - Java
