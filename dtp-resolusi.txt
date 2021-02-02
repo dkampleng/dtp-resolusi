@@ -1,4 +1,5 @@
 DTP RESOLUSI
 - Konsisten untuk membuat aplikasi 2x seminggu
-- Membuat aplikasi
 - Membuat forum diskusi
+- Membuat sistem cerdas
+- Membangun start-up 
