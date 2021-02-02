@@ -3,5 +3,8 @@ RENCANA APP DTP
   - ReactJS
   - ElectronJS
 - Python
+  - Framework Python
 - Java
+- PHP
+  - Laravel
 - Struktur Data Dasar
