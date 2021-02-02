@@ -6,4 +6,5 @@ RENCANA APP DTP
   - Framework Python
 - Java
 - PHP
+  - Laravel
 - Struktur Data Dasar
